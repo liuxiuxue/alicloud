@@ -1,0 +1,7 @@
+com\star\alicloud\service\PageQuery.class
+com\star\alicloud\service\ResourceService.class
+com\star\alicloud\controller\ResourceConsumerController.class
+com\star\alicloud\service\UserService.class
+com\star\alicloud\entity\Resource.class
+com\star\alicloud\ConsumerApp.class
+com\star\alicloud\controller\UserConsumerController.class

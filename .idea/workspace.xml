@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="12fdd33d-4f54-4181-b865-bfa7ddf8d4ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uZ57MHxVfhA1ugvYz4xcwtEkRd" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gateway-service" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.2575" />
+    <property name="project.structure.side.proportion" value="0.3026316" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.star.alicloud.service" />
+      <recent name="com.star.alicloud" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\alicloud\auth\src\main\resources" />
+      <recent name="E:\IdeaProjects\alicloud\common\src\main\resources" />
+      <recent name="E:\IdeaProjects\alicloud\activity-provider1\src\main\resources" />
+      <recent name="E:\IdeaProjects\alicloud\gateway\src\main\resources" />
+      <recent name="E:\IdeaProjects\alicloud" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthProviderApp (1)">
+    <configuration name="AuthProviderApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="auth-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.alicloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.star.alicloud.AuthProviderApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.alicloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.star.alicloud.ConsumerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.alicloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.star.alicloud.GateWayApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourceProvider1App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="resource-provider1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.star.alicloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.star.alicloud.ResourceProvider1App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AuthProviderApp (1)" />
+        <item itemvalue="Spring Boot.ResourceProvider1App" />
+        <item itemvalue="Spring Boot.ConsumerApp" />
+        <item itemvalue="Spring Boot.GateWayApp (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.1650433" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12fdd33d-4f54-4181-b865-bfa7ddf8d4ef" name="Default Changelist" comment="" />
+      <created>1624860101650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624860101650</updated>
+      <workItem from="1624860103596" duration="5676000" />
+      <workItem from="1624956503685" duration="21302000" />
+      <workItem from="1625124222842" duration="14617000" />
+      <workItem from="1625289892491" duration="45000" />
+      <workItem from="1625464324843" duration="12837000" />
+      <workItem from="1627523778580" duration="1664000" />
+      <workItem from="1627529478030" duration="119000" />
+      <workItem from="1631671289792" duration="266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1625192166553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1625192166553" />
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser" timestamp="1625190035129">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="224" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1625190035129" />
+    <state x="416" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625211649383">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625211649383" />
+    <state width="506" height="441" key="DebuggerActiveHint" timestamp="1625038940558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="506" height="441" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1625038940558" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1625124720476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625124720476" />
+    <state x="740" y="210" key="FileChooserDialogImpl" timestamp="1625474602840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="210" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625474602840" />
+    <state width="1542" height="298" key="GridCell.Tab.0.bottom" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.0.center" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.0.left" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.0.right" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.1.bottom" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.1.center" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.1.left" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1542" height="298" key="GridCell.Tab.1.right" timestamp="1625560215850">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1542" height="298" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215850" />
+    <state width="1877" height="408" key="GridCell.Tab.2.bottom" timestamp="1625560215823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215823" />
+    <state width="1877" height="408" key="GridCell.Tab.2.center" timestamp="1625560215822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215822" />
+    <state width="1877" height="408" key="GridCell.Tab.2.left" timestamp="1625560215822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215822" />
+    <state width="1877" height="408" key="GridCell.Tab.2.right" timestamp="1625560215822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="408" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1625560215822" />
+    <state x="819" y="304" key="JpaSupport:com.ifengxue.plugin.gui.DatabaseSettingsDialog" timestamp="1624957150858">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="819" y="304" key="JpaSupport:com.ifengxue.plugin.gui.DatabaseSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1624957150858" />
+    <state x="600" y="218" key="NewModule_or_Project.wizard" timestamp="1625474603813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="600" y="218" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1625474603813" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1631671309167">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1631671309167" />
+    <state width="515" height="498" key="SwitcherDM" timestamp="1625467247274">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="515" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1625467247274" />
+    <state x="628" y="237" width="663" height="566" key="find.popup" timestamp="1624958478553">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="237" width="663" height="566" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1624958478553" />
+    <state x="334" y="218" key="new project wizard" timestamp="1625474550262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="218" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1625474550262" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1625015438484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1625015438484" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/activity-provider1/src/main/java/com/star/alicloud/controller/ActivityController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
